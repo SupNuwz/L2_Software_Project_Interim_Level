@@ -1,0 +1,120 @@
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\csc.exe
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\csc.exe.config
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\csc.rsp
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\csi.exe
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\csi.exe.config
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\csi.rsp
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.AppContext.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Collections.Immutable.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Console.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.IO.Compression.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.IO.FileSystem.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.IO.Pipes.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.AccessControl.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.Claims.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Threading.Thread.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.ValueTuple.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Xml.XPath.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\vbc.exe
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\vbc.exe.config
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\vbc.rsp
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\VBCSCompiler.exe
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\roslyn\VBCSCompiler.exe.config
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\Study Groups interim.dll.config
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\Study Groups interim.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\Study Groups interim.pdb
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\obj\Debug\Study Groups interim.csproj.CoreCompileInputs.cache
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\obj\Debug\Study Groups interim.dll
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\obj\Debug\Study Groups interim.pdb
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\contactus.aspx
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\contactus.aspx.cs
+c:\users\indunil\source\repos\Study Groups interim\Study Groups interim\bin\contactus.aspx.designer.cs
+C:\Users\Indunil\source\repos\Study Groups interim\Study Groups interim\obj\Debug\Study Groups interim.csprojResolveAssemblyReference.cache
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\csc.exe
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\csc.exe.config
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\csc.rsp
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\csi.exe
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\csi.exe.config
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\csi.rsp
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.AppContext.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Console.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.IO.Compression.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.Claims.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.ValueTuple.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\vbc.exe
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\vbc.exe.config
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\vbc.rsp
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\VBCSCompiler.exe
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\contactus.aspx
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\contactus.aspx.cs
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\contactus.aspx.designer.cs
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\Study Groups interim.dll.config
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\Study Groups interim.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\Study Groups interim.pdb
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\obj\Debug\Study Groups interim.csprojResolveAssemblyReference.cache
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\obj\Debug\Study Groups interim.csproj.CoreCompileInputs.cache
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\obj\Debug\Study Groups interim.dll
+C:\Users\Supuni\Desktop\Study groups\Study Groups interim\Study Groups interim\obj\Debug\Study Groups interim.pdb
